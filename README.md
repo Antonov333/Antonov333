@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Antonov333
-- 👀 I’m interested in Java coding and currently learning this
+- 👀 I’m interested in Java coding with popular frameworks
 - 💞️ I’m looking to collaborate on developing modern Java application
 - 📫 You are welcome to reach me antonovsergei333@yahoo.com
 
